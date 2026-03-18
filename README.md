@@ -36,8 +36,7 @@ Pengembangan sistem ini bertujuan untuk:
 * 📤 Transaksi Barang Keluar
 * 📊 Monitoring Stok Barang
 * 📝 Laporan Inventory
-* 🔔 Notifikasi Stok Minimum (Opsional)
-* 📱 Integrasi QR Code (Opsional)
+* 🔔 Notifikasi Stok Minimum
 
 ---
 
