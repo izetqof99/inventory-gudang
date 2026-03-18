@@ -1,0 +1,8 @@
+{
+  "apps": [{
+    "name": "laravel-scheduler",
+    "script": "php",
+    "args": "scheduler-loop.php",
+    "cwd": "C:/laragon/www/inventory-gudang"
+  }]
+}
