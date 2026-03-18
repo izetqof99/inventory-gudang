@@ -133,6 +133,10 @@ http://127.0.0.1:8000
 * Input barang masuk & keluar
 * Melihat stok barang
 
+## Login
+* Username : fakhri99
+* Password : 12345678
+
 ---
 
 ## 📸 Tampilan Sistem
