@@ -137,18 +137,28 @@ http://127.0.0.1:8000
 
 ## 📸 Tampilan Sistem
 
-*(Tambahkan screenshot di sini jika ada)*
+# Login
+<img width="1365" height="636" alt="Login" src="https://github.com/user-attachments/assets/05934b4e-e873-401a-92d1-702b53ec59ef" />
+
+# Halaman Dashboard
+<img width="1363" height="633" alt="Dashboard" src="https://github.com/user-attachments/assets/85f5d6cb-1bf4-4537-824c-6186873ef3a9" />
+
+# Menu Data Barang
+<img width="1364" height="636" alt="Menu Data Barang" src="https://github.com/user-attachments/assets/25913263-6bea-484d-8cf3-72be703ac3e3" />
+
+# Halaman Data Barang Masuk
+<img width="1365" height="637" alt="Halaman Data Barang Masuk" src="https://github.com/user-attachments/assets/fff44b07-4cd4-4aa1-857a-7b208a23d838" />
+
+# Halaman Data Barang Keluar
+<img width="1352" height="634" alt="Halaman Data Barang Keluar" src="https://github.com/user-attachments/assets/82d0160f-b3a9-45bf-9d38-3155ed06e16b" />
+
+# Halaman Kasir
+<img width="1365" height="632" alt="Menu Kasir" src="https://github.com/user-attachments/assets/d5941aad-a5f9-4287-9295-e491606c7766" />
+
+
 
 ---
 
-## 📈 Pengembangan Selanjutnya
-
-* Integrasi API
-* Sistem notifikasi WhatsApp
-* Dashboard analitik
-* Multi gudang
-
----
 
 ## 📄 Lisensi
 
