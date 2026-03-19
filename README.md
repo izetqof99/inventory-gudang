@@ -77,6 +77,7 @@ cd nama-repository
 ```bash
 composer install
 npm install
+npm run build
 ```
 
 ### 3. Konfigurasi Environment
